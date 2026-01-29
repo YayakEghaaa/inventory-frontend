@@ -85,10 +85,7 @@ function SignIn() {
           textAlign="center"
         >
           <MDTypography variant="h4" fontWeight="medium" color="white" mt={1}>
-            Sign in
-          </MDTypography>
-          <MDTypography display="block" variant="button" color="white" my={1}>
-            Masukkan username dan password Anda
+            Inventory System
           </MDTypography>
         </MDBox>
         <MDBox pt={4} pb={3} px={3}>
